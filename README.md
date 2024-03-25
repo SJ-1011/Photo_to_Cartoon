@@ -6,7 +6,11 @@
 
 
 
-https://github.com/SJ-1011/Photo_to_Cartoon/assets/109647265/11f8adc8-8ae1-4b92-bd1d-7789c7cd9986
+
+
+https://github.com/SJ-1011/Photo_to_Cartoon/assets/109647265/6b5c8141-6d27-4348-ac69-5e0ac5e8e585
+
+
 
 
 
@@ -15,7 +19,11 @@ https://github.com/SJ-1011/Photo_to_Cartoon/assets/109647265/11f8adc8-8ae1-4b92-
 
 
 
-https://github.com/SJ-1011/Photo_to_Cartoon/assets/109647265/b300db58-8ce6-4e81-87b0-560c35bbb23b
+
+
+https://github.com/SJ-1011/Photo_to_Cartoon/assets/109647265/56918682-f98e-4d22-b450-07812935737e
+
+
 
 
 
