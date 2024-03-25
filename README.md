@@ -1,11 +1,11 @@
 # Photo to Cartoon
 > ## Using OpenCV to Create Cartoons from Videos
 
-`
-`
-`
-`
-`
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 ## 카툰 느낌이 잘 표현되는 영상의 스크린 샷
 
 
@@ -18,7 +18,10 @@
 
 
 
-
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 ## 카툰 느낌이 잘 표현되지 않는 영상의 스크린 샷
 
@@ -32,7 +35,10 @@
 카툰 느낌은 더 잘 표현됐을수도 있지만, 원본의 느낌을 많이 잃어 잘 표현되었다고 할 수 없다.
 
 
-
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 ## 알고리즘의 한계
 
