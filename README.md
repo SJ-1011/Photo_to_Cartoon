@@ -25,4 +25,3 @@ https://github.com/SJ-1011/Photo_to_Cartoon/assets/109647265/de02b811-5dd4-428a-
 
 ## 알고리즘의 한계
 
-https://user-images.githubusercontent.com/109647265/205758598-45a248a3-151e-4f09-b4af-7c62848590ca.mp4
