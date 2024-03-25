@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 # 비디오 파일 열기
-cap = cv2.VideoCapture('bird.mp4')
+cap = cv2.VideoCapture('./image_folder/bird.mp4')
 
 # 비디오 파일이 열렸는지 확인
 if not cap.isOpened():
@@ -14,7 +14,7 @@ frame_width = int(cap.get(cv2.CAP_PROP_FRAME_WIDTH))
 frame_height = int(cap.get(cv2.CAP_PROP_FRAME_HEIGHT))
 
 # 새로운 비디오 파일을 생성하기 위한 설정
-out = cv2.VideoWriter('cartoon_bird.mp4', cv2.VideoWriter_fourcc(*'mp4v'), 30, (frame_width, frame_height))
+out = cv2.VideoWriter('./image_folder/cartoon_bird.mp4', cv2.VideoWriter_fourcc(*'mp4v'), 30, (frame_width // 2, frame_height // 2))
 
 # 비디오 파일이 끝날 때까지 반복
 while cap.isOpened():
@@ -24,6 +24,9 @@ while cap.isOpened():
     # 비디오 파일의 끝에 도달하면 종료
     if not ret:
         break
+
+    # 프레임의 크기를 반으로 줄이기
+    frame = cv2.resize(frame, (frame_width // 2, frame_height // 2))
 
     # Convert the image to grayscale
     gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
